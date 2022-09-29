@@ -85,11 +85,27 @@ section ul li:hover{
     border-radius: 8px;
     width: 90px;
 }
+
 .channel-list img{
     border-radius: 50%;
     width: 70px;
     border: 1px solid #443E54;
 }
+
+.new-games img{
+    width: 250px;
+
+}
+.social-list img {
+width: 32px;
+}
+
+/*
+header {}  <header> 
+.texto-vermelho {}  class="texto-vermelho" *
+#conteudo1 {}  id="conteudo1" 
+*/
+
 /*animation */
 
 header div {
